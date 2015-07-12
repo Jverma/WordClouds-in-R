@@ -6,7 +6,9 @@ First attempt at creating Shiny apps.
 
 **Dependencies:**
   - [Shiny](http://shiny.rstudio.com/)
-  ```install.packages("shiny")```
+ 
+          install.packages("shiny")
+
 
 
 **Usage:**
